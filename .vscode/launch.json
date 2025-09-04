@@ -1,0 +1,23 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Flask",
+            "type": "python",
+            "request": "launch",
+            "module": "flask",
+            "env": {
+                "FLASK_APP": "app.py",
+                "FLASK_ENV": "development",
+                "GEMINI_API_KEY": "AIzaSyA5bWJnFXMRRrfVPr3aOi7HJR_JdAzGFPY"
+            },
+            "args": [
+                "run",
+                "--no-debugger",
+                "--no-reloader"
+            ],
+            "jinja": true,
+            "justMyCode": true
+        }
+    ]
+}
