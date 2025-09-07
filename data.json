@@ -1,0 +1,280 @@
+{
+  "departments": [
+    {
+      "name": "B.Sc. (Hons.) Mathematics",
+      "location": "Science Block, Second Floor",
+      "hod": "Dr. Ramesh Kumar"
+    },
+    {
+      "name": "B.A. (Hons.) Hindi",
+      "location": "Arts Block, Room No. 101",
+      "hod": "Dr. Anjali Singh"
+    },
+    {
+      "name": "B.Com. (Hons.) Accounting",
+      "location": "Commerce Block, Ground Floor",
+      "hod_name": "Dr. Prakash Kumar Agrawal",
+      "hod_role": "Assistant Professor"
+    },
+    {
+      "name": "Computer Science Department",
+      "location": "New Academic Block, First Floor",
+      "hod": "Anil kumar chaudhary"
+    }
+  ],
+  "facilities": [
+    {
+      "name": "Kisan College",
+      "location": "Main Building, Ground Floor",
+      "map_iframe": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3596.166601275988!2d84.82110291501984!3d25.795853283626773!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39ed58f69e6b6f07%3A0xc33e5066440e6b8c!2sKisan%20College%2C%20Sohsarai!5e0!3m2!1sen!2sin!4v1690022415132!5m2!1sen!2sin\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    },
+    {
+      "name": "Canteen",
+      "location": "Near Sports Ground",
+      "timing": "9:00 AM to 7:00 PM",
+      "coords": {
+        "lat": 25.795853283626773,
+        "lng": 84.82110291501984
+      }
+    },
+    {
+      "name": "Health Centre",
+      "location": "Near Boys Hostel",
+      "contact": "9876543210",
+      "coords": {
+        "lat": 25.795853283626773,
+        "lng": 84.82110291501984
+      }
+    }
+  ],
+  "staff": {
+    "non_teaching": [
+      {
+        "name": "Smt. Rashmi Rani",
+        "role": "Office Superintendent"
+      },
+      {
+        "name": "Jivesh Kumar",
+        "role": "Routine Clerk"
+      },
+      {
+        "name": "Saket Raman",
+        "role": "Routine Clerk"
+      },
+      {
+        "name": "Dr. Shivendra Kumar Singh",
+        "role": "Assistant",
+        "department": "Zoology"
+      },
+      {
+        "name": "MD. S.M. Ataur Rahman",
+        "role": "Accountant"
+      },
+      {
+        "name": "Smt. Shivani Kumari",
+        "role": "Librarian"
+      },
+      {
+        "name": "Deepak Kumar",
+        "role": "Lower Division Clerk"
+      },
+      {
+        "name": "Mudhusudan Kumar",
+        "role": "Lower Division Clerk"
+      },
+      {
+        "name": "Vimlesh Kumar",
+        "role": "Peon",
+        "department": "Physics"
+      },
+      {
+        "name": "Dilip Kumar",
+        "role": "Sweeper"
+      },
+      {
+        "name": "Kanti Devi",
+        "role": "Peon",
+        "department": "Principal Office"
+      },
+      {
+        "name": "Tandul Prasad",
+        "role": "Store Keeper (Contractual)"
+      },
+      {
+        "name": "Amar Nath Prasad",
+        "role": "Peon",
+        "department": "Botany"
+      },
+      {
+        "name": "Harendra Yadav",
+        "role": "Office Assistant",
+        "department": "Computer Science"
+      },
+      {
+        "name": "Arun Kumar Raut",
+        "role": "Generator Operator"
+      },
+      {
+        "name": "Manju Devi",
+        "role": "Peon",
+        "department": "Computer Science"
+      }
+    ],
+    "teaching": {
+      "BCA": [
+        "Anil Kumar Choudhary",
+        "Afzal Ahmad"
+      ],
+      "BSc.IT": [
+        "Anil Kumar Choudhary",
+        "Afzal Ahmad"
+      ],
+      "B.Lis": [
+        "Kumari Jaya",
+        "Archna Kumari",
+        "Sweta Kumari"
+      ],
+      "English": [
+        "Dr. Satyendra Kumar Sinha",
+        "Dr. Pramod Kumar Yadav"
+      ],
+      "Hindi": [
+        "Dr. Baby Kumari"
+      ],
+      "Urdu": [
+        "Sharaf Alam Shamsi"
+      ],
+      "Philosophy": [
+        "Dr. Kushaldeo Prasad Singh"
+      ],
+      "Pali": [
+        "Dr. Priyanka Kumari"
+      ],
+      "History": [
+        "Dr. Ravi Kumar"
+      ],
+      "Geography": [
+        "Dr. Anoop Kumar Singh"
+      ],
+      "A.I & A.S": [
+        "Dr. Baljeet Bihari",
+        "Dr. Sanjeev Kumar"
+      ],
+      "Economics": [
+        "Prof. (Dr.) Ravindra Nath Singh",
+        "Dr. Jawahar Lal Prasad Mandal"
+      ],
+      "Political Science": [
+        "Dr. Anand Shankar Samdarshi",
+        "Dr. Anuj Kumar Singh",
+        "Dr. Pravin Kumar Singh"
+      ],
+      "Home Science": [],
+      "Psychology": [
+        "Dr. Vijay Kumar Yadavendu",
+        "Dr. Anil Kumar Sinha"
+      ],
+      "Sociology": [
+        "Dr. Vijay Kumar Yadavendu"
+      ],
+      "Chemistry": [
+        "Dr. Awadesh Kumar Dwivedi",
+        "Dr. Chandana Kumari",
+        "Dr. Gyandshwar Rao",
+        "Dr. Ramawadesh Kumar",
+        "Dr. Piyush Panini"
+      ],
+      "Botany": [
+        "Dr. Sudhir Ranjan"
+      ],
+      "Zoology": [
+        "Fatma Zohra Khatoon"
+      ],
+      "Physics": [
+        "Prof. (Dr.) S.M. Alam",
+        "Prof. (Dr.) A.N.P. Das",
+        "Dr. U.N. Singh",
+        "Dr. Shashi Kant Singh"
+      ],
+      "Mathematics": [
+        "Prof. (Dr.) Anil Kumar",
+        "Dr. Surendra Kumar Singh"
+      ]
+    }
+  },
+  "holiday_list": {
+    "details": "Diwali ki chhutti 30th October se shuru hogi. Christmas ki chhutti 24th December se shuru hogi."
+  },
+  "syllabuses": {
+    "ug_syllabus": [
+      {
+        "name": "B.Sc. (Hons.) Mathematics",
+        "url": "https://kisancollege.ac.in/images/ug/UG%20SYLLABUS-MAT_compressed.pdf"
+      },
+      {
+        "name": "B.A. (Hons.) Hindi",
+        "url": "https://ppup.ac.in/download/UG%20SYLLABUS-%20Hindi.pdf"
+      },
+      {
+        "name": "B.Com. (Hons.) Accounting",
+        "url": "https://ppup.ac.in/download/syllabus/FYUG-B.Com-in-Accounting-and-Finance.pdf"
+      },
+      {
+        "name": "B.Sc. (Hons.) Physics",
+        "url": "https://kisancollege.ac.in/images/ug/UG%20SYLLABUS-PHY_compressed.pdf"
+      },
+      {
+        "name": "B.Sc. (Hons.) Chemistry",
+        "url": "https://kisancollege.ac.in/images/ug/UG%20SYLLABUS-CHE_compressed.pdf"
+      },
+      {
+        "name": "Computer Science Department",
+        "urls": [
+          {
+            "name": "BSc. IT Syllabus",
+            "url": "https://drive.google.com/file/d/1gQRjbq-QhVVKXY9RKsUnPApNL3bS49uo/view?usp=sharing"
+          },
+          {
+            "name": "BCA Syllabus",
+            "url": "https://www.ibcpatna.in/BCA_Syllabus.pdf"
+          }
+        ]
+      }
+    ],
+    "pg_syllabus": [
+      {
+        "name": "M.Sc. (Hons.) Geography",
+        "url": "https://ppup.ac.in/download/Phd%20PAT-2025%20syllabus/P.G.%20Geography.pdf"
+      },
+      {
+        "name": "M.Sc. (Hons.) History",
+        "url": "https://ppup.ac.in/download/Phd%20PAT-2025%20syllabus/P.G.%20History.pdf"
+      },
+      {
+        "name": "M.A. (Hons.) Psychology",
+        "url": "https://ppup.ac.in/download/Phd%20PAT-2025%20syllabus/P.G.%20Psychology.pdf"
+      },
+      {
+        "name": "M.Com. (Hons.) Accounting",
+        "url": "https://ppup.ac.in/download/syllabus/FYUG-B.Com-in-Accounting-and-Finance.pdf"
+      },
+      {
+        "name": "M.Sc. (Hons.) Zoology",
+        "url": "https://ppup.ac.in/download/public_html/download/UG-PG-Syllabus/P.G.%20Zoology.pdf"
+      },
+      {
+        "name": "Computer Science Department",
+        "urls": [
+          {
+            "name": "MCA Syllabus",
+            "url": "https://www.jdwcpatna.ac.in/download/mcasyllabus2020.pdf"
+          },
+          {
+            "name": "M.Sc. IT Syllabus",
+            "url": "https://archive.mu.ac.in/myweb_test/MSC-IT-Syllabus.pdf"
+          }
+        ]
+      }
+    ]
+  }
+}
