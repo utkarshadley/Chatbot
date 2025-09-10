@@ -144,7 +144,6 @@ pytube==15.0.0
 pytweening==1.2.0
 pytz==2024.1
 pywhatkit==5.4
-pywinpty==2.0.13
 PyYAML==6.0.1
 pyzmq==26.0.2
 qrcode==7.4.2
@@ -200,6 +199,7 @@ wikipedia==1.4.0
 wsproto==1.2.0
 yfinance==0.2.55
 zope.interface==6.2
+
 
 
 
