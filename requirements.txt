@@ -132,7 +132,6 @@ PyMsgBox==1.0.9
 pyparsing==3.2.3
 PyPDF2==3.0.1
 pyperclip==1.8.2
-pypiwin32==223
 pypng==0.20220715.0
 PyRect==0.2.0
 PyScreeze==0.1.30
@@ -201,5 +200,6 @@ wikipedia==1.4.0
 wsproto==1.2.0
 yfinance==0.2.55
 zope.interface==6.2
+
 
 
